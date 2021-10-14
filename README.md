@@ -1,5 +1,5 @@
 # Become-a-Blockchain-Developer-with-Ethereum-and-Solidity
-Blockchain Ethereum Dapp Smart Contract Development inspired from the course delivered by ChainSkill.
+Blockchain Ethereum Dapp Smart Contract Development inspired from the Udemy course delivered by ChainSkill.
 https://www.udemy.com/getting-started-with-ethereum-solidity-development
 
 Achieved:
